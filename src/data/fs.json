@@ -1,0 +1,118 @@
+{
+  "name": "~",
+  "type": "folder",
+  "children": [
+    {
+      "name": "work_experience",
+      "type": "folder",
+      "icon": "briefcase",
+      "children": [
+        {
+          "name": "SDE_intern_at_Inceptio.md",
+          "aliases": [
+            "SDE_intern_at_Inceptio"
+          ],
+          "type": "file"
+        },
+        {
+          "name": "SDE_intern_at_NIO.md",
+          "aliases": [
+            "SDE_intern_at_NIO"
+          ],
+          "type": "file"
+        },
+        {
+          "name": "RA_at_STAR.md",
+          "aliases": [
+            "RA_at_STAR"
+          ],
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "projects",
+      "type": "folder",
+      "icon": "cube",
+      "children": [
+        {
+          "name": "todoo.java",
+          "aliases": [
+            "todoo"
+          ],
+          "type": "file"
+        },
+        {
+          "name": "pintos.c",
+          "aliases": [
+            "pintos"
+          ],
+          "type": "file"
+        },
+        {
+          "name": "intersection_coordination.py",
+          "aliases": [
+            "intersection_coordination"
+          ],
+          "type": "file"
+        },
+        {
+          "name": "omni_sinusoid.cpp",
+          "aliases": [
+            "omni_sinusoid"
+          ],
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "education",
+      "type": "folder",
+      "icon": "school",
+      "children": [
+        {
+          "name": "UW.md",
+          "aliases": [
+            "UW"
+          ],
+          "type": "file"
+        },
+        {
+          "name": "ShanghaiTech.md",
+          "aliases": [
+            "ShanghaiTech"
+          ],
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "skills",
+      "type": "folder",
+      "icon": "flash",
+      "children": [
+        {
+          "name": "human_languages.md",
+          "aliases": [
+            "human_languages"
+          ],
+          "type": "file"
+        },
+        {
+          "name": "computer_languages.md",
+          "aliases": [
+            "computer_languages"
+          ],
+          "type": "file"
+        },
+        {
+          "name": "computer_software.md",
+          "aliases": [
+            "computer_software"
+          ],
+          "type": "file"
+        }
+      ]
+    }
+  ]
+}

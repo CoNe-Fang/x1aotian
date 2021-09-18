@@ -1,0 +1,23 @@
+{
+  "uw_work": {
+    "main": "study in {one}, {two}.",
+    "adjectives": {
+      "one": "University of Washington",
+      "two": "Seattle"
+    }
+  },
+  "sde_work": {
+    "main": "develop {one} and {two} software.",
+    "adjectives": {
+      "one": "stable",
+      "two": "maintainable"
+    }
+  },
+  "mle_work": {
+    "main": "enjoy {one} and {two}.",
+    "adjectives": {
+      "one": "design algorithms",
+      "two": "train models"
+    }
+  }
+}
