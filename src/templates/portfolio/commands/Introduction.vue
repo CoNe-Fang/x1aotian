@@ -61,13 +61,12 @@ __  __   /¯¯/  _____  _____  _/ˉ/__  __  _____   _____
       Icon
     },
     data () {
-      const resumeBaseUrl = 'https://dhruvkb.github.io/resume'
       return {
         resumeRepoUrl: 'https://github.com/dhruvkb/resume/',
         resumeLinks: [
           {
             name: 'résumé',
-            url: `${resumeBaseUrl}/resume_sde.pdf`,
+            url: 'https://www.dropbox.com/s/ww9gp0n0gmg0dpg/Resume_Xiaotian_0823.pdf?dl=0',
             shortkey: 'r' // 'r' for Résumé
           }
           // {

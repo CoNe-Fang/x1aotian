@@ -54,7 +54,7 @@
         <p class="can">
           <Icon icon="usa" :path="icons.usa"/>
           <a href = "tel:2543246660">
-            +1  254 324 6660
+            +1  424 440 9220
           </a>
           <br/>
         </p>
