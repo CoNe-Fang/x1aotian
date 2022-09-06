@@ -66,7 +66,7 @@ __  __   /¯¯/  _____  _____  _/ˉ/__  __  _____   _____
         resumeLinks: [
           {
             name: 'résumé',
-            url: 'https://www.dropbox.com/s/0a0e7ucdb9r3bmf/Resume_Xiaotian_0919.pdf?dl=0',
+            url: 'https://www.dropbox.com/s/nh4tdhj2uk4pt7u/Resume_Xiaotian_220906.pdf?dl=0',
             shortkey: 'r' // 'r' for Résumé
           }
           // {
