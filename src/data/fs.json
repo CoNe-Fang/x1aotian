@@ -8,6 +8,13 @@
       "icon": "briefcase",
       "children": [
         {
+          "name": "SDE_intern_at_AWS.md",
+          "aliases": [
+            "SDE_intern_at_AWS"
+          ],
+          "type": "file"
+        },
+        {
           "name": "SDE_intern_at_Inceptio.md",
           "aliases": [
             "SDE_intern_at_Inceptio"
@@ -36,6 +43,13 @@
       "icon": "cube",
       "children": [
         {
+          "name": "intelligent_schema_advisor.py",
+          "aliases": [
+            "intelligent_schema_advisor.py"
+          ],
+          "type": "file"
+        },
+        {
           "name": "todoo.java",
           "aliases": [
             "todoo"
@@ -46,20 +60,6 @@
           "name": "pintos.c",
           "aliases": [
             "pintos"
-          ],
-          "type": "file"
-        },
-        {
-          "name": "intersection_coordination.py",
-          "aliases": [
-            "intersection_coordination"
-          ],
-          "type": "file"
-        },
-        {
-          "name": "omni_sinusoid.cpp",
-          "aliases": [
-            "omni_sinusoid"
           ],
           "type": "file"
         }
